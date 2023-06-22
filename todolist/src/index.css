@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden !important ;
+}
+
+form{
+    width: 60%;
+    margin: auto;
+}
+.form-group{
+    width: 100%;
+}
+
+.tasklist{
+    background-color: rgb(212, 212, 212);
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.tasklist h2{
+    font-weight: bold;
+}
+
+.td-button{
+    width: 200px;
+}
+.table{
+    padding: 50px;
+}
